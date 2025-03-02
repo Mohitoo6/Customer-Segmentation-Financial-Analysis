@@ -91,7 +91,7 @@ Analyzing spending habits across different segments.
 ### **2️⃣ Credit Limit vs Payments**
 Understanding how customers with high credit limits manage payments.
 
-![Credit Limit vs Payments](visualizations/credit_limit_vs_payments.png)
+![Credit Limit vs Payments](https://github.com/Mohitoo6/Customer-Segmentation-Financial-Analysis/blob/main/credit_limit_vs_payments.png)
 
 **Key Insights:**
 - Some **high-credit customers have minimal payments**, indicating a **risk of delinquency**.
