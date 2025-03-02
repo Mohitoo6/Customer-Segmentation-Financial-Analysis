@@ -46,7 +46,7 @@ Analyzing correlations between financial attributes helps understand spending pa
 ### **3️⃣ Distribution of Financial Features**
 Understanding how financial metrics are distributed among customers.
 
-![Feature Distributions](visualizations/feature_distributions.png)
+![Feature Distributions](https://github.com/Mohitoo6/Customer-Segmentation-Financial-Analysis/blob/main/feature_distributions.png)
 
 **Key Observations:**
 - Most customers **do not frequently take cash advances**, but those who do, rely on them heavily.
