@@ -85,7 +85,7 @@ Analyzing spending habits across different segments.
 
 **Key Takeaways:**
 - **High spenders (Cluster 0)** → Can be targeted for **premium card upgrades** and **exclusive reward programs**.
-- **Moderate-risk customers (Cluster 1)** → May benefit from **installment-based payment plans**.
+- **Moderate-risk customers (Cluster 1 and 3)** → May benefit from **installment-based payment plans**.
 - **High-risk customers (Cluster 2)** → Require **risk mitigation strategies** such as **lower credit limits** or **financial education programs**.
 
 ### **2️⃣ Credit Limit vs Payments**
@@ -104,7 +104,7 @@ Based on segmentation, tailored business strategies were developed:
 - Upsell **premium credit cards** with cashback and travel benefits.
 - Offer **higher credit limits** to boost engagement.
 
-⚠️ **For Moderate-Risk Customers (Cluster 1):**
+⚠️ **For Moderate-Risk Customers (Cluster 1 and 3):**
 - Promote **installment-based payment options** to manage spending.
 - Educate them on **improving credit scores**.
 
