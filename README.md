@@ -81,7 +81,7 @@ The segmentation resulted in **three primary customer groups**:
 ### **1️⃣ Spending Behavior by Cluster**
 Analyzing spending habits across different segments.
 
-![Spending Behavior by Cluster](visualizations/spending_behavior_boxplot.png)
+![Spending Behavior by Cluster](https://github.com/Mohitoo6/Customer-Segmentation-Financial-Analysis/blob/main/spending_behavior_boxplot.png)
 
 **Key Takeaways:**
 - **High spenders (Cluster 0)** → Can be targeted for **premium card upgrades** and **exclusive reward programs**.
