@@ -72,7 +72,7 @@ The segmentation resulted in **three primary customer groups**:
 
 **Cluster Distribution:**
 
-![Cluster Distribution](visualizations/cluster_distribution.png)
+![Cluster Distribution](https://github.com/Mohitoo6/Customer-Segmentation-Financial-Analysis/blob/main/cluster_distribution.png)
 
 ---
 
@@ -117,21 +117,3 @@ Based on segmentation, tailored business strategies were developed:
 - **15% increase** in customer spending from personalized promotions ([McKinsey Report](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-value-of-getting-personalization-right-or-wrong-is-multiplying?utm_source=chatgpt.com)).
 - **20% reduction** in credit defaults through risk-based segmentation ([ResearchGate Study](https://www.researchgate.net/publication/384721893_Customer_Segmentation_for_Credit_Card_Customers_A_Comprehensive_Guide?utm_source=chatgpt.com)).
 - **Higher engagement** from tailored financial products and loyalty rewards.
-
----
-
-## 🎯 Next Steps
-
-- **Enhance Predictive Modeling:** Introduce **machine learning models** to predict **customer defaults**.
-- **Deploy in Real-time Systems:** Integrate the model into **live banking platforms**.
-- **Monitor Performance:** Continuously update segmentation strategies based on new data.
-
----
-
-## 🤝 Connect With Me
-📧 [Your Email] | 💼 [LinkedIn Profile] | 🚀 [Portfolio Website]
-
----
-
-This **comprehensive README** ensures **recruiters and hiring managers** quickly understand your project, its impact, and your data science expertise. 🚀
-
