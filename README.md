@@ -29,9 +29,7 @@ The dataset contains anonymized financial information of **credit card users**, 
 Before applying clustering techniques, **EDA** was conducted to **understand trends, patterns, and anomalies** in customer spending behavior.
 
 ### **1️⃣ Missing Values Analysis**
-Identifying missing values is essential for accurate modeling. The heatmap below highlights missing data points in the dataset:
-
-![Missing Values Heatmap](https://github.com/Mohitoo6/Customer-Segmentation-Financial-Analysis/blob/main/missing_values_heatmap.png)
+Identifying missing values is essential for accurate modeling.
 
 **Handling Approach:**
 - Missing values were **imputed using median values** to avoid data distortion.
