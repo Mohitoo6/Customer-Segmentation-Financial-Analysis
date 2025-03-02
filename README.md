@@ -39,7 +39,7 @@ Identifying missing values is essential for accurate modeling. The heatmap below
 ### **2️⃣ Feature Correlation Analysis**
 Analyzing correlations between financial attributes helps understand spending patterns.
 
-![Feature Correlation Heatmap](visualizations/correlation_heatmap.png)
+![Feature Correlation Heatmap](https://github.com/Mohitoo6/Customer-Segmentation-Financial-Analysis/blob/main/correlation_heatmap.png)
 
 **Key Insights:**
 - **Purchases and Credit Limit** are positively correlated, suggesting customers with higher credit limits tend to spend more.
